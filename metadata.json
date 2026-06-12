@@ -1,0 +1,6 @@
+{
+  "name": "Agenda y Diario de Momentos",
+  "description": "Una aplicación minimalista y acogedora para organizar tus tareas diarias y guardar reflexiones, notas o momentos especiales con persistencia local.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
